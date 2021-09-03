@@ -1,2 +1,5 @@
 # codeclub
-This is a code club repository.
+
+This is the first commit to this repository.
+
+Minor changes...
