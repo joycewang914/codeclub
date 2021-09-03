@@ -35,6 +35,10 @@ vignettes/*.pdf
 *.utf8.md
 *.knit.md
 
+# Ignore these files
+test.txt
+*.csv
+
 # R Environment Variables
 .Renviron
 .Rproj.user
